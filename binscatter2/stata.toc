@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p binscatter2 Super fast binned scatterplots Use binscatter2 With STATA 19
