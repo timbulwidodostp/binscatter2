@@ -1,6 +1,8 @@
 # binscatter2
 Super fast binned scatterplots Use binscatter2 With STATA 19
 
+https://www.youtube.com/watch?v=hrsBFou9o5w
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
